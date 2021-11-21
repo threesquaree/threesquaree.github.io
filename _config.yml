@@ -1,5 +1,5 @@
 layout: stacked
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -65,11 +65,15 @@ topics:
         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png
 
   
-  - name: Javascript
+  - name: JavaScript
     web_url: https://github.com/topics/javascript
     image_url:
         https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Figma
+    web_url: https://github.com/topics/figma
+    image_url: https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png
+
+  - name: After Effects
+    web_url: https://github.com/topics/after-effects
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png
